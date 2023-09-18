@@ -1,0 +1,8 @@
+1,John Mark,Manchester,10,3,M12 9HR,johnlewis@gmail.com,07943 383832,null
+2,Jack Wills,Rutherford,13,Marsden Street,RU3 T23,jack@gmail.com,07488 49933,false
+3,John Adam,Stoke,22,Crosby Street,ST2 4EU,johnadam@gmail.com,07567 998833,false
+4,Home Bargains,Bolton,111,St Helens Street,BL3 2YT,homebargains@gmai.com,07347 348983,false
+5,Next,Bolton,11,John street ,BL3 4TB,jay@baumtrading.com,07456372921,false
+6,Selfridges,Bolton,11,Manchester road,BL6 4TF,sportsdirect@gmail.com,07658493032,false
+7,Jd sports,Leicester,10,Patrick road,LE1 1AJ,JD@gmail.com,07657483283,false
+8,New look,Bolton,11,Darren road,BL5 4TF,newlook@gmail.com,07567384432,false
